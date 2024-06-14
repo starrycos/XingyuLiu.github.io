@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
+<!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <span class='anchor' id='about-me'></span>
 
@@ -34,11 +34,11 @@ My ultimate goal is to make real-world impact through self-driving and embodied 
 
 # 💻 Experiences
 - *2024.06 - now*, Deep learning Planning, Urban Navigation Pilot, [Momenta](https://www.momenta.cn/), Shanghai.
-- 
+  
 # 📖 Educations
 - *2021.09 - 2024.06* <br> M.Sc. in Pattern recognition and Intelligent system, Xi'an Jiaotong University.
 - *2017.09 - 2021.06* <br> B.E. in Automation, Xi'an Jiaotong University.
-- 
+  
 # 📝 Publications 
 - Parallel Attention Interaction Network for Few-Shot Skeleton-based Action Recognition \| [Paper]([https://arxiv.org/abs/2310.13512](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Parallel_Attention_Interaction_Network_for_Few-Shot_Skeleton-Based_Action_Recognition_ICCV_2023_paper.pdf))
 <br>**Xingyu Liu**, Sanping Zhou, Lewang, Gang Hua
@@ -47,4 +47,4 @@ My ultimate goal is to make real-world impact through self-driving and embodied 
 
 # 🎖 Honors and Awards
 - *2023* National Scholarship of XJTU
-- *2021, 2022* Graduate Scholarship of XJTU
+- *2021,2022* Graduate Scholarship of XJTU
