@@ -33,7 +33,7 @@ At Momenta, I worked on deep learning planning, data-driven simulation and e2e s
 My ultimate goal is to make real-world impact through self-driving and embodied intelligence. 
 
 # 💻 Experiences
-- *2024.06 - now*, Deep learning Planning, Urban Navigation Pilot, [Momenta](https://www.momenta.cn/), Shanghai.
+- *2024.06 - now*, Deep Learning Planning, Urban Navigation Pilot, [Momenta](https://www.momenta.cn/), Shanghai.
   
 # 📖 Educations
 - *2021.09 - 2024.06* <br> M.Sc. in Pattern recognition and Intelligent system, Xi'an Jiaotong University.
