@@ -40,7 +40,7 @@ My ultimate goal is to make real-world impact through self-driving and embodied 
 - *2017.09 - 2021.06* <br> B.E. in Automation, Xi'an Jiaotong University.
   
 # 📝 Publications 
-- Parallel Attention Interaction Network for Few-Shot Skeleton-based Action Recognition \| [Paper]([https://arxiv.org/abs/2310.13512](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Parallel_Attention_Interaction_Network_for_Few-Shot_Skeleton-Based_Action_Recognition_ICCV_2023_paper.pdf))
+- Parallel Attention Interaction Network for Few-Shot Skeleton-based Action Recognition \| [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Parallel_Attention_Interaction_Network_for_Few-Shot_Skeleton-Based_Action_Recognition_ICCV_2023_paper.pdf)
 <br>**Xingyu Liu**, Sanping Zhou, Lewang, Gang Hua
 <br> ICCV 2023
 
